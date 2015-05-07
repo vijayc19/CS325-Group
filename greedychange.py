@@ -6,7 +6,7 @@
 import sys
 
 #Global Vars
-values = []		#Array of of coin sets (array of arrays)
+values = []	#Array of of coin sets (array of arrays)
 amounts = []	#Array of target sums associated with coin sets
 amountIndex = 0 #Number of amounts scanned so far 
 
